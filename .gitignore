@@ -163,6 +163,6 @@ cython_debug/
 
 sae.keras
 .DS_Store
-dataset/MetroPT3.csv
-dataset/dataset_train_processed.csv
+MetroPT3.csv
+dataset_train_processed.csv
 models/
